@@ -107,6 +107,8 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  bcrypt-ruby (~> 3.0.1)
+  bundler (~> 1.0.17)
   coffee-rails (~> 3.2.1)
   jquery-rails
   mysql2
